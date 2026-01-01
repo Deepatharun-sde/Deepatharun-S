@@ -1,5 +1,9 @@
+<h1 align="center">Hi 👋, I'm Deepatharun S</h1>
+<h3 align="center">A passionate Software developer</h3>
+
+
 # 💫 About Me:
-🔭 A passionate Software Developer<br>🌱 I’m currently learning MERN Stack Development<br>💬 Ask me about Python,Node.js,JavaScript,React.js.Tailwind<br>⚡ Fun fact Dead-line Champion
+🌱 I’m currently learning MERN Stack Development<br>💬 Ask me about Python,Node.js,JavaScript,React.js.Tailwind<br>⚡ Fun fact Dead-line Champion
 
 
 ## 🌐 Socials:
